@@ -9,7 +9,7 @@ pipeline {
 			steps {
 			sh '''
 			git clone 'https://github.com/redprasa/Jenkins-Pipelines.git'
-			''
+			'''
 }
 
 }
